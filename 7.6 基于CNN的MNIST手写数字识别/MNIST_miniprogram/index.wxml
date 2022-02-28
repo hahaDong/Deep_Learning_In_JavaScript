@@ -1,0 +1,10 @@
+<!-- pages/coco-ssd/index.wxml -->
+<cu-custom bgColor="bg-gradual-orange" isCustom="{{true}}"><view slot="content">手写数字识别</view></cu-custom>
+<view class="container">
+  <camera device-position="back" flash="off" style="width:100%;height:640rpx" frame-size="small"></camera>
+  <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">预测结果：{{res_num}}</text>
+      </view>
+    </view>
+</view>
