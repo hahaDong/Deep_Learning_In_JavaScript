@@ -1,0 +1,8 @@
+<!-- pages/coco-ssd/index.wxml -->
+<cu-custom bgColor="bg-gradual-blue" isCustom="{{true}}"><view slot="content">对象检测</view></cu-custom>
+
+<app-nav />
+<camera class="camera" device-position="back" flash="off" frame-size="medium">
+  <canvas class="canvas" canvas-id="ssdDetect"></canvas>
+</camera>
+<van-toast id="van-toast" />
