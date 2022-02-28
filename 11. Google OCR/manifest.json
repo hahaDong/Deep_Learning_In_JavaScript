@@ -1,0 +1,15 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "hello.png"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "提取图片中的文字信息并将其转换成文本信息，用户可以通过点击按钮完成图片上传操作，并通过按下「ESC」快捷键退出应用",
+   "manifest_version": 2,
+   "name": "hahaOCR",
+   "short_name": "hahaOCR",
+   "version": "1.0"
+}
