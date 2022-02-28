@@ -1,0 +1,15 @@
+<cu-custom bgColor="bg-gradual-purple" isCustom="{{true}}"><view slot="content">姿势估计</view></cu-custom>
+
+<app-nav />
+<camera class="camera" device-position="{{devicePosition}}" frame-size="medium" flash="off" binderror="onCameraError">
+
+  <canvas class="singlePoseCanvas" canvas-id="pose" bindtap="switchCamera">
+    <view class="cu-item">
+      <view class="content" style="text-align:center;font-size:35rpx;background-color:rgba(0,0,0,0.6);">
+          <text class="cuIcon-notification text-orange" style="font-weight:bold;margin-right:10rpx;"></text>
+          <text class="text-gray">点击屏幕切换摄像头！</text>
+        </view>
+    </view>
+  </canvas>
+</camera>
+<van-toast id="van-toast" />
