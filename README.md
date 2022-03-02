@@ -24,7 +24,11 @@
 
 
 ## 本书核心技术栈
-<center><img width="500" alt="图片1" src="https://user-images.githubusercontent.com/41555864/155910572-fcca3a22-6e75-41ee-a9b5-51b96fe068e0.png"></center>
+<div align="center">
+  <img width="500" alt="图片1" src="https://user-images.githubusercontent.com/41555864/155910572-fcca3a22-6e75-41ee-a9b5-51b96fe068e0.png">
+</div>
 
 ## 思维导图
-<img width="602" alt="图片2" src="https://user-images.githubusercontent.com/41555864/155910612-b5d68fde-e117-413d-bc1e-038450764465.png">
+<div align="center">
+  <img width="602" alt="图片2" src="https://user-images.githubusercontent.com/41555864/155910612-b5d68fde-e117-413d-bc1e-038450764465.png">
+</div>
