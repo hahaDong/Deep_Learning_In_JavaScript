@@ -9,4 +9,6 @@
 
 
 ## 效果展示
-![image](https://user-images.githubusercontent.com/41555864/155908753-261f917c-627f-48b1-aeca-8ccdcfb7a24d.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/41555864/155908753-261f917c-627f-48b1-aeca-8ccdcfb7a24d.png">
+</div>
