@@ -7,5 +7,7 @@
 
 
 ## 效果展示
-![image](https://user-images.githubusercontent.com/41555864/155909723-bd36ba2a-836c-47ca-9eef-e94b853f465a.png)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/41555864/155909723-bd36ba2a-836c-47ca-9eef-e94b853f465a.png">
+</div>
