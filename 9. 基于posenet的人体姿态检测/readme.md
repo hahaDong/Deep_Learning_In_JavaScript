@@ -7,4 +7,6 @@
 + util.js：相关绘制方法
 
 ## 效果展示
-![image](https://user-images.githubusercontent.com/41555864/155909329-680225d9-13b1-42bc-a490-4c78bcec34e5.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/41555864/155909329-680225d9-13b1-42bc-a490-4c78bcec34e5.png">
+</div>
